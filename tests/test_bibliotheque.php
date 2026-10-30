@@ -59,4 +59,3 @@ $bib->ajouter($l4);
 $res4 = $bib->rechercher('algo');
 verifier(count($res4) === 2, 'rechercher("algo") trouve 2 livres');
 
-//test_taux ouvrage
