@@ -68,4 +68,6 @@ class Bibliotheque
         }
         return $resultats;
     }
+    /* methode a implementer statistique 
+
 }
